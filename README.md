@@ -59,6 +59,6 @@ GPU overhead dominates at small workloads, while GPU acceleration provides measu
 
 ## Author
 Snigdha  
-Information Science / Computer Engineering  
+Information Science 
 Focus: Systems, ML, GPU Computing, Human-Centered AI
 
