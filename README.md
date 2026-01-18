@@ -1,7 +1,7 @@
 # Decision Fatigue & Cognitive Overload Detection System  
 *A CUDA-accelerated behavioral inference system*
 
-[ Run Live Demo in Colab](https://colab.research.google.com/github/Snigdha-new/decision-fatigue-cuda-system/blob/main/demo.ipynb)
+[ Run Live Demo in Colab](https://colab.research.google.com/github/Snigdha-new/decision-fatigue-cuda-system/blob/main/DECISION_FATIGUE.ipynb)
 
 
 ## Overview
