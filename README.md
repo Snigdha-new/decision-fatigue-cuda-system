@@ -54,9 +54,9 @@ GPU overhead dominates at small workloads, while GPU acceleration provides measu
 ### CPU vs GPU Performance
 ![Performance](performance.png)
 ### Decision Signal Over Time
-![Digital Signals](digital_signals.png)
+![Digital Signals](decision_signal.png)
 ### Decision Fatigue States
-![Digital States](digital_states.png)
+![Digital States](decision_state.png)
 
 ## Limitations & Ethics
 - Small pilot dataset
