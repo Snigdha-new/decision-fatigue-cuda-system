@@ -50,6 +50,13 @@ GPU overhead dominates at small workloads, while GPU acceleration provides measu
 3. Run all cells
 4. Upload `screen_time.csv` when prompted
 
+## Results & Visualizations
+### CPU vs GPU Performance
+![Performance](performance.png)
+### Decision Signal Over Time
+![Digital Signals](digital_signals.png)
+### Decision Fatigue States
+![Digital States](digital_states.png)
 
 ## Limitations & Ethics
 - Small pilot dataset
